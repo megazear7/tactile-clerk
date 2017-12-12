@@ -1,0 +1,12 @@
+# Tactile Clerk
+
+A express based server for delivering tactile pages. Pages are rendered using tactile-broker.
+
+## Usage
+
+```javascript
+const tactileClerk = require('tactile-clerk')
+const componentModels = require('./components/components.js')
+
+tactileClerk.server.run(3000, componentModels);
+```
