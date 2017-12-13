@@ -1,6 +1,6 @@
 {
   "name": "tactile-clerk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides the basic wiring needed to serve a tactile app over an express server.",
   "main": "index.js",
   "scripts": {
